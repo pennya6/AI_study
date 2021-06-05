@@ -27,7 +27,9 @@
   5) API 데이터 & 코드
   
 <데이터 사이언스 구성원>
-  1) 데이터 엔지니어(Data Engineer)
-  2) 데이터 분석가(Data Analyst)
-  3) 데이터 과학자(Data Scientist)
-  4) 기계학습 데이터 과학자(Machine Learning Scientist)
+  1) 데이터 엔지니어(Data Engineer) : 데이터 저장 관리, SQL, JAVA, 스칼라, 파이썬
+  2) 데이터 분석가(Data Analyst) : 탐색적 데이터 분석, 스프레드쉬트, SQL, 상용 대쉬보드 도구
+  3) 데이터 과학자(Data Scientist) : 통계학 기반 실험과 통계모형 개발, 자료추출 SQL, 실험과 모형 R, 파이썬
+  4) 기계학습 데이터 과학자(Machine Learning Scientist) : 기계학습 모형 개발, R, 파이썬
+
+
